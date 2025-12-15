@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "nextday",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0c49c29e-fd2d-4494-ad71-f9f15a9e2b7e",
+			"database_name": "NextDay"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
